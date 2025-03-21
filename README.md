@@ -1,6 +1,7 @@
-# :wave: The Basics of GitHub 
-
-## 🤓 Course overview and learning outcomes 
+# Proth askisi Fwto 1
+## Αλεξανδρα Νικολαου
+## 23391106
+## 4ο εξαμηνο
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
